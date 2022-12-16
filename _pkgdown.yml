@@ -1,0 +1,34 @@
+url: ~
+template:
+  bootstrap: 5
+  bootswatch: cosmo
+
+navbar:
+  bg: dark
+  structure:
+    right: [twitter, github]
+  components:
+    twitter:
+      icon: fa-twitter
+      href: https://twitter.com/edroaldorocha
+      aria-label: Twitter
+    github:
+      icon: fa-github
+      href: https://github.com/edroaldo/fusca
+      aria-label: GitHub
+
+footer:
+  structure:
+    left: developed_by
+    right: built_with
+  components:
+    developed_by: Website developed by Rafael dos Santos Peixoto
+    built_with: Built with pkgdown
+
+home:
+  sidebar:
+    structure: [authors, custom, toc, dev]
+    components:
+      custom:
+        title: Funding
+        text: We are *grateful* for funding!

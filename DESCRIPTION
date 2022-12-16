@@ -142,4 +142,7 @@ Collate:
     'utils-pipe.R'
 Suggests: 
     rJava,
-    destiny
+    destiny,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
