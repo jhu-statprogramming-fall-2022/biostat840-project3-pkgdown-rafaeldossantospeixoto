@@ -6,7 +6,7 @@
 * https://github.com/edroaldo/fusca
 
 ### Website
-* https://github.com/jhu-statprogramming-fall-2022/biostat840-project3-pkgdown-rafaeldossantospeixoto
+* https://jhu-statprogramming-fall-2022.github.io/biostat840-project3-pkgdown-rafaeldossantospeixoto/
 
 ### Webiste Mofications
 * bootswatch theme
